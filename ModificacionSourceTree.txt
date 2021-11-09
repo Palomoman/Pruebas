@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola
+=======
+Adiós
+>>>>>>> 9702f3b8cb56490cb4cfca29b34a1aef7ca32152
